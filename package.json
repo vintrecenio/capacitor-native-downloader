@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-native-downloader",
+  "name": "capacitor-native-downloader-cap6",
   "version": "0.0.6",
   "description": "native file downloader",
   "main": "dist/plugin.cjs.js",
